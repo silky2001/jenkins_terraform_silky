@@ -26,3 +26,4 @@ terraform plan                        # Show the components terraform will creat
 terraform apply                       # Perform all the actions shown in the plan above.
 terraform destroy                     # Once the env is not needed anymore, the destroy command will remove all its installed components from AWS.
 ```
+ 
